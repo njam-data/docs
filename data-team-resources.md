@@ -1,5 +1,6 @@
 # Data team resources
 
+## Services used by the data team
 - [1Password](https://njamdata.1password.com) - All login information for tools and resources listed here are stored in the team 1Password account.
 - [GitHub](https://github.com/njamdatabot) - In addition to the GitHub njam-data org, we have the njamdatabot account, which is useful for logging in to services that require logging in with GitHub
 - [Mapbox](https://mapbox.com)

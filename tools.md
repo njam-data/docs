@@ -17,6 +17,18 @@
 - daff https://github.com/paulfitz/daff
 - csvkit https://csvkit.readthedocs.io/en/latest/
 - sqlite-utils https://github.com/simonw/sqlite-utils
+- Tabula: Turn PDFs into Excel spreadsheets
+- OpenOffice: When Excel just won’t open something (particularly .dbf files)
+- OpenRefine: A data cleaning tool more powerful in some ways than Excel
+- QGIS: An open-source mapping software, particularly useful for creating layers, joining data and geographies and working with weird file formats. Kind of a long-term necessity though.
+- Sublime Text -- solid text editor
+- VLC: Opens a ton of random audio files
+- Should have both Chrome and Firefox to test different views of a new tool
+- http://blog.apps.npr.org/2013/06/06/how-to-setup-a-developers-environment.html
+- https://github.com/ireapps/install-guides/blob/master/car18.md 
+- https://docs.google.com/presentation/d/1sVRs1_iJohe5YOPaNfcoL2WW4HpVnWf8CyG7ZxMMdRc/edit#slide=id.g2c7b95f65_323
+- Pip: A python package downloader. A lot of command-line tools use this for easy downloading and installing. Homebrew is another common download tool 
+- Mapshaper command-line tool will turn geojsons into topojsons, topojsons into shapefiles, and shapefiles into pre-styled shapefiles. Pretty sweet.
 
 ## PDF Parsing
 
